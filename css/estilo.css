@@ -1,0 +1,26 @@
+/*
+dark_blue  #243752
+light_blue #0A6187
+white      #FFFFFF
+grey       #C7C7C7
+red        #F25944
+*/
+
+body {
+    margin: 1rem;
+}
+
+.social-media-profiles {
+padding: 0;
+margin: 20px 0;
+
+}
+
+.social-media-profiles li {
+    display: inline-block;
+    list-style: none;      
+}
+
+.social-media-profiles a {
+    color: #F25944;
+}
